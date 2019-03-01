@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Appointment Reminder</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="dateTime">Date/Time</string>
+    <string name="addAppointButton">Add Appointment</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnAddAppt">Add Appointment</string>
+    <string name="entName">Enter Name</string>
+    <string name="Open_Drawer">Open Drawer</string>
+    <string name="Close_Drawer">Close Drawer</string>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+
+        <item
+            android:title="OverView"
+            android:id="@+id/overView"
+            ></item>
+
+        <item
+            android:title="Today"
+            android:id="@+id/today">
+
+        </item>
+
+
+        <item
+            android:id="@+id/tomorrow"
+            android:title="Tomorrow"
+            ></item>
+
+        <item
+
+            android:id="@+id/ten_days"
+            android:title="Upcoming 10 days"
+            ></item>
+
+
+
+
+
+
+    </group>
+</menu>
